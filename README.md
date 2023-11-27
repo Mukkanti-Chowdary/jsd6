@@ -1,7 +1,7 @@
 # java project
 ## Java Basics
--Data Types
-*Conditional Statements
-+Loops
+- Data Types
+* Conditional Statements
++ Loops
 ## *Core Java*
 ### **Programming**

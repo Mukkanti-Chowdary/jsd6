@@ -10,3 +10,4 @@
 1. Queue
 ### **Programming**
 The background color is `#ffffff` for light mode and `#000000` for dark mode.
+GitHub Link [GitHub Pages](https://github.com/Mukkanti-Chowdary/jsd6/)

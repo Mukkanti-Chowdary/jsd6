@@ -1,6 +1,6 @@
 # java project
 ## Java Basics
-- Data Types
+- Data Types 
 * Conditional Statements
 + Loops
 ## *Core Java*

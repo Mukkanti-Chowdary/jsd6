@@ -1,4 +1,5 @@
 # java project
-## Java Basic Exmple
+## Java Basics Exmple
 ### Description
+## *Core Java*
 **Programming Exaples**

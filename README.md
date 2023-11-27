@@ -9,7 +9,7 @@
 1. Stack
 1. Queue
 ### **Programming**
-The background color is `#fff426` for light mode and `#000016` for dark mode.
+The background color is `#RRGGBB` for light mode and `rgb(R,G,B)` for dark mode.
 
 GitHub Link [GitHub Pages](https://github.com/Mukkanti-Chowdary/jsd6/)
 

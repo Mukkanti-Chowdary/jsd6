@@ -12,4 +12,4 @@
 The background color is `#ffffff` for light mode and `#000000` for dark mode.
 
 GitHub Link [GitHub Pages](https://github.com/Mukkanti-Chowdary/jsd6/)
-[Screenshot]("C:\Users\mukka\Downloads\download.png")
+Java Icon[Screenshot]("C:\Users\mukka\Downloads\download.png")

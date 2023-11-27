@@ -9,6 +9,13 @@
 1. Stack
 1. Queue
 ### **Programming**
+
+Some basic Java commands are:
+```
+int myNumber
+String stringValue
+public static void main(String[] args)
+```
 The background color is `#RRGGBB` for light mode and `rgb(R,G,B)` for dark mode.
 
 GitHub Link [GitHub Pages](https://github.com/Mukkanti-Chowdary/jsd6/)
